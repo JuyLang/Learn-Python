@@ -8,7 +8,7 @@
 # Những dòng code cùng lề thì là cùng một block.
 # Một block có thể có nhiều block khác.
 # Khi căn lề block không sử dụng cả tab lẫn space.
-# Nên sử dụng 4 space để căn lề một block
+# Nên sử dụng 4 space để jcăn lề một block
 
 a = 88
 if(a<100):

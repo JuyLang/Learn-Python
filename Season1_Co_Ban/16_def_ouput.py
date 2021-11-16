@@ -40,7 +40,7 @@ print("a line witout newlien222")
 # sleep(3)
 # print("end...")
 
-# hoặc Flush là là thấy giá trị thì sẽ in ra
+# hoặc Flush là là thấy giá trị thì sẽ in raj
 
 content = "Anh yêu em nhiều lắm Hà Dung ơi"
 for x in content:

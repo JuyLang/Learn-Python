@@ -13,7 +13,7 @@ interator = ( x for x in range(3)) # đây mới là một iterator
 print(intera)
 print(interator) # đây chính là interable object
 # nhưng ta không thể truy xuất 
-# ta cần làm như sau
+# ta cần làm như sau.
 print(next(interator))
 print(next(interator))
 print(next(interator))

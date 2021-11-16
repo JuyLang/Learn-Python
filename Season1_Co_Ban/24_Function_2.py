@@ -104,4 +104,4 @@ def vdlocal():
 vdglobal()
 vdlocal()
 print(duy) # ta thấy khi hàm đc gọi sẽ tạo biến Duy, sử dụng global duy sẽ thành biến toàn cục
-# print(duy2) sẽ dùng biến này đc 
+# print(duy2) sẽ dùng biến này đc .

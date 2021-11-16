@@ -54,4 +54,4 @@ kteam_ret = square([1, 2, 3])
 for value in kteam_ret:
         print(value)
 
-#send Đây là phương thức giúp bạn gửi giá trị vào trong một generator.
+#send Đây là phương thức giúp bạn gửi giá trị vào trong một generator..

@@ -1,6 +1,6 @@
 # for <biến> in range():
 
-#range() : có thể là bắt đầu từ đâu, đến bao nhiêu, bước nhảy
+#range() .: có thể là bắt đầu từ đâu, đến bao nhiêu, bước nhảy
 
 # for x in range(0,21,4): #ví dụ in từ 1 - 21 
 #     print(x)

@@ -8,4 +8,4 @@
 # Ví dụ: Chiều cao của Tèo bằng chiều cao của Tí
 
 # Là (is) trong trường hợp này là liên từ diễn giải định nghĩa, tính chất của một sự vật/sự việc/con người.
-# Ví dụ: Ta không thể nói “Chiều cao của Tèo là chiều cao của Tí” vì của Tèo là của Tèo, đâu phải của Tí. Nên nói là “Chiều cao của Tèo là chiều cao của Tèo” hoặc “Chiều cao của Tí là chiều cao của Tí”
+# Ví dụ: Ta không thể nói “Chiều jcao của Tèo là chiều cao của Tí” vì của Tèo là của Tèo, đâu phải của Tí. Nên nói là “Chiều cao của Tèo là chiều cao của Tèo” hoặc “Chiều cao của Tí là chiều cao của Tí”

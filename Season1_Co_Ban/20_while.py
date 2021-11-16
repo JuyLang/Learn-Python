@@ -8,7 +8,7 @@ while (a > 0):
     a = a - 1
     sleep(0.1)
 
-#chuỗi hoặc tupple
+#chuỗi hoặc tupplej
 
 str1 = "Lăng Khương Duy0"
 x =0

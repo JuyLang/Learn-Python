@@ -40,7 +40,7 @@ Teo(1, d=5)
 # /Python cho phép chúng ta tạo ra các parameter chỉ nhận giá  trị bằng việc pass argument theo kiểu keyword argument.
 # Cú pháp
     # def function (*, key_arg1, key_arg2):
-    # function-block
+    # function-block.
 
 #ví dụ 
 def kteam2(pos_or_key_arg, *, key_arg1, key_arg2):
