@@ -1,4 +1,7 @@
 #method
+from tokenize import Double
+
+
 a = "Lang Khuong Duy ,yeu Ha Dung"
 b = a.split(" ") # chia các phần tử bằng kí tự
 # có thể thêm max with
@@ -37,3 +40,12 @@ l1 = l.isdigit() # l = '88' True,
                  # l1 = "88s" Flase
 print(l)
 print(l1)
+
+test = '01001011 01010011 01111011 0001 01010100 00100111 0101 01011111 01100001 01011111 01101101 0001 01111000 01011111 0000 01100110 01011111 01000010 0001 01001110 01000001 01010010 01011001 01011111 00100110 01011111 0110 01011111 01000010 01000011 01000100 01111101'
+print(test.join( )) 
+
+
+sum = 0;
+for x in range(0,6,1):
+   	sum = (1/(6-x)) + sum;
+print(sum);
